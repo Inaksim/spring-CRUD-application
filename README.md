@@ -1,2 +1,2 @@
-# spring-CRUD-application
-Simple CRUD application with Spring Security, Thymeleaf and Hibernate
+# spring-Login-registration-application
+Simple login-registration application with Spring Security, Thymeleaf and Hibernate
